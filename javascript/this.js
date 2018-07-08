@@ -1,6 +1,6 @@
 // Edx: Harvard CS50 - Mobile App Development with React Native (July 2018)
 
-// JavaScript, ES6
+// Video: JavaScript, ES6
 
 // this keyword - refers to an object that is set at the creation of a new 
 // execution context (function invocation)
